@@ -160,21 +160,7 @@ Not adding/on hold:
 
 ## <a id="premium"></a>💎 〢 Premium
 
-~~Hazard v2 is a free software. It will **NOT** be undetected from antiviruses, or have custom features such as:
-
-- Stealing from more browsers (edge, firefox, brave, opera etc..)
-- Stealing creditcards, addresses, emails, phone numbers, names etc..
-- Crypto/Wallet stealing
-- Undetected from antivirus
-- Obfuscated to a irreversible point
-- Made in a compiled language (stealers made in python automatically becomes bad)
-- Multi os support
-- Loads more
-
-Currently the premium grabber is not out yet, but the goal is that the premium one will be a cheap but powerfull grabber and will have the features listed above 10x.
-join [cheataway](https://cheataway.com/invite) and do `!buy` to see preview of the grabber, free trial will be available so you can try it out and see if you like it.~~
-
-Hazard v2 is becoming extremely OP, and in the next few updates it will become more OP than pretty much every paid stealer. Premium will be extremely good and probably better than anything we've ever seen. More info in the Discord server! (https://cheataway.com)
+Hazard v2 is becoming extremely OP, and in the next few updates it will become more OP than pretty much every paid stealer. Premium will be extremely good and probably better than anything we've ever seen. More info in the Discord server! (https://cheataway.com/invite)
 
 ---
 
