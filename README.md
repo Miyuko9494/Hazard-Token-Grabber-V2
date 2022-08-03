@@ -17,16 +17,14 @@
 </p>
 
 <h2 align="center">
-  Hazard-Token-Grabber-V2 was made with
-
-Love ❌ code ✅
+  Hazard-Token-Grabber-V2 was made with ~~love~~ code!
 
 </h2>
 
 **NOTE:** \
-Hazard was made for educational purposes, therefor all consequences caused by your actions are **your** responsibility and accountability.
+Hazard was made for educational purposes, therefore all consequences caused by your actions are **YOUR** responsibility and accountability.
 
-> [Why Hazardv2 won't be more OP](https://github.com/Rdimo/Hazard-Token-Grabber-V2/issues/314#issuecomment-1133918906) ┋[Want an even better grabber?](#premium) ┋ [Why choose hazard v2?](#why_hazard)
+> [Want an even better grabber?](#premium) ┋ [Why choose hazard v2?](#why_hazard)
 
 ---
 
@@ -34,29 +32,29 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 
 - [🔰・Features](#features)
 - [🌌・Discord](https://cheataway.com/invite)
-- [🎉・Setting up Hazard Token Grabber.V2](#setup)
+- [🎉・Setup](#setup)
 - [⚙・Config](#config)
-- [🔎・Why choose hazard v2?](#why_hazard)
-- [🌟・Todo/Enhancements](#enhancements)
+- [🔎・Why Hazard v2?](#why_hazard)
+- [🌟・To-Do-List/Enhancements](#enhancements)
 - [💎・Premium](#premium)
 - [📝・Changelog](#changelog)
-- [🤓・Dear skids](#skids)
+- [🤓・Dear Skids](#skids)
 
 ## <a id="features"></a>🔰 〢 Features
 
 ```
-> Anti-vm/Anti-debug
-> Add to startup
-> Hides itself
-> Supports github.com/Rdimo/Discord-Webhook-Protector so webhook can't be deleted or spammed
-> Options are configurable
-> Pretty Fast Even if it Was Made With Python
-> Windows Product Key & Build Info
+> Anti VM/Debug.
+> Run on startup.
+> Hide itself.
+> Webhook protection so your webhook can't be deleted (See: github.com/Rdimo/Discord-Webhook-Protector)
+> Configurable to your liking!
+> Quite fast for a Python Stealer
+> Windows Edition Info and Product Key
 > IP & Geolocation. (Country, City, Google Maps Location)
-> A screenshot of all their monitors
-> All valid/working discord tokens. (Bypasses BetterDiscord, Token Protector and Discord's new encryption)
-> Their Passwords & Credit Cards for Discord (updates when they change it)
-> All Passwords, Cookies and History from Google
+> Monitor Screenshot (of every monitor attatched)
+> All valid/working discord tokens. (Bypasses BetterDiscord/DiscordTokenProtecter and decrypts protected tokens!)
+> Their Passwords, 2FA Codes, and Payment Methods from Discord! (Updates when changed)
+> All Google Passwords, Cookies, and History!
 > + More!
 ```
 
@@ -64,14 +62,14 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 
 ---
 
-## <a id="setup"></a> 📁 〢 Setting up Hazard Token Grabber.V2
+## <a id="setup"></a> 📁 〢 Setting up Hazard Token Grabber V2
 
-1. Install [python](https://www.python.org/) and add it to [path](https://datatofish.com/add-python-to-windows-path/).
-2. Open up [main.py](https://github.com/Rdimo/Hazard-Token-Grabber-V2/blob/master/main.py) with notepad or some other editor
-3. Locate the config at the top of the file and Replace "WEBHOOK_HERE" with your [discord webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
-4. Double Click `setup.bat` and allow it to finish.
-5. A Window will open prompting for a name. Put something in such as "Token_Logger" (You can always rename the file later)
-6. Send the file to victims. 😈
+1. Install [Python](https://www.python.org/) and add it to your PATH. [(Guide Here)](https://datatofish.com/add-python-to-windows-path/).
+2. Open up [main.py](https://github.com/Rdimo/Hazard-Token-Grabber-V2/blob/master/main.py) with any text/code editor.
+3. Locate the config at the top of the file and Replace "WEBHOOK_HERE" with your [Discord Webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+4. Double-Click `setup.bat` and allow it to finish.
+5. A Window will open prompting for a name. Put something in such as "Token_Logger" (You can always rename the file later!)
+6. Send the EXE file to victims. 😈
 
 ## <a id="config"></a>⚙ 〢 Config
 
@@ -109,29 +107,29 @@ config = {
 
 ## <a id="why_hazard"></a>🔎 〢 Why choose Hazard v2?
 
-You might be wondering, Why choose this grabber instead of other ones like [Mercurial](https://github.com/NightfallGT/Mercurial-Grabber) or [ItroublveTSC](https://github.com/Itroublve/ItroublveTSC). Without making this a competition Hazard v2 has many advantages over alot of grabbers out there, popular, free and even paid ones. V2 is well maintained and updates gets pushed out on a regular basis making it a non-buggy, clean, and working grabber. V2 was for example the first grabber to bypass and decrypt discords new token encryption and additionally has a [injection](https://github.com/Rdimo/Discord-Injection) which also currently is the only working one.
+You might be wondering, why choose this grabber instead of other ones like [Mercurial](https://github.com/NightfallGT/Mercurial-Grabber) or [ItroublveTSC](https://github.com/Itroublve/ItroublveTSC). Without making this a competition Hazard v2 has many advantages over a lot of grabbers out there, even paid ones! Hazard v2 has active developers which push out updates often, resulting in clean, up-to-date and bug-free code! It was also was the first grabber to implement Token Decryption, and additionally has an [Injection](https://github.com/Rdimo/Discord-Injection) which also currently is the only working one.
 
-Here are some pros and cons why/why not use Hazard v2 instead of other ones
+Here are some Pros/Cons of Hazard, so you can choose!
 
 ### ✔ Pros
 
-⁃ Extremely well maintained, making it a safe choice \
-⁃ Partly undetected just because it gets updates often \
-⁃ Easy to use and setup \
-⁃ Completely free and open source \
-⁃ Loads of wide spread features not only focused on discord \
-⁃ Cleans itself up, deleting all traces of itself which suprisingly most others don't \
-⁃ Supports a webhook protector I made ([Discord-Webhook-Protector](https://github.com/Rdimo/Discord-Webhook-Protector)) making it impossible to delete your webhook \
-⁃ Even thought it's made in python it's very fast thanks to async and threading \
-⁃ Clean embed & isn't spammy like others making it less likely to get ratelimited \
-⁃ Takes feedback and listens to what people want to be added/changed/removed
+⁃ Extremely well maintained, making it a safe choice. \
+⁃ Partly undetected just because it gets updates often. \
+⁃ Easy to use and setup. \
+⁃ Completely free and open source. \
+⁃ Loads of wide spread features not only focused on Discord. \
+⁃ Cleans itself up, deleting all traces of itself which suprisingly most others don't. \
+⁃ Supports a webhook protector I made ([Discord-Webhook-Protector](https://github.com/Rdimo/Discord-Webhook-Protector)) making it impossible to delete your webhook. \
+⁃ Even thought it's made in python it's very fast thanks to async and threading. \
+⁃ Clean embed & isn't spammy like others making it less likely to get ratelimited. \
+⁃ Takes feedback and listens to what people want to be added/changed/removed.
 
 ### ❌ Cons
 
-⁃ Made in Python making it lose to other grabbers in terms of speed \
-⁃ Python is an interpreted language, it needs to pack the engine & all dependencies making the file size very big \
-⁃ Only supports windows 10/11 \
-⁃ Can be pretty easily decompiled (still harder than Mercurial atleast)
+⁃ Made in Python making it lose to other grabbers in terms of speed. \
+⁃ Python is an interpreted language, it needs to pack the engine & all dependencies making the file size very big. \
+⁃ Only supports windows 10/11. \
+⁃ Can be pretty easily decompiled (still harder than Mercurial atleast).
 
 In the end it's just up to **you** to choose what grabber suits you and your needs the best.
 
@@ -162,7 +160,7 @@ Not adding/on hold:
 
 ## <a id="premium"></a>💎 〢 Premium
 
-Hazard v2 is a free software. It will **NOT** be undetected from antiviruses, or have custom features such as:
+~~Hazard v2 is a free software. It will **NOT** be undetected from antiviruses, or have custom features such as:
 
 - Stealing from more browsers (edge, firefox, brave, opera etc..)
 - Stealing creditcards, addresses, emails, phone numbers, names etc..
@@ -174,7 +172,9 @@ Hazard v2 is a free software. It will **NOT** be undetected from antiviruses, or
 - Loads more
 
 Currently the premium grabber is not out yet, but the goal is that the premium one will be a cheap but powerfull grabber and will have the features listed above 10x.
-join [cheataway](https://cheataway.com/invite) and do `!buy` to see preview of the grabber, free trial will be available so you can try it out and see if you like it.
+join [cheataway](https://cheataway.com/invite) and do `!buy` to see preview of the grabber, free trial will be available so you can try it out and see if you like it.~~
+
+Hazard v2 is becoming extremely OP, and in the next few updates it will become more OP than pretty much every paid stealer. Premium will be extremely good and probably better than anything we've ever seen. More info in the Discord server! (https://cheataway.com)
 
 ---
 
@@ -307,6 +307,6 @@ I hope you end up on the streets begging for spare change
 <p align="center">
 🌟 <b>Enjoyed Hazard Token Grabber V2?</b> Consider dropping a star :)
 <br>
-Made alone by Rdimo
+Hazard v2 was made by [Rdimo](https://github.com/rdimo) and [DeKrypt](https://github.com/dekrypted)
 <br>
 <a href=#top>Back to Top</a></p>
